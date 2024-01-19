@@ -2,8 +2,8 @@
 Conceitos do React (Rocketseat)
 </h1>
 
-<p align="center">Desafio 01 Rocketseat Ignite ReactJS</p>
-<p align="center">Deployed <strong><a href="https://discord-clone-gx7.netlify.app/">here</a></strong>.</p>
+<p align="center">Desafio 01 do Curso Rocketseat Ignite ReactJS: Trilha 2021</p>
+<p align="center">Deployed <strong><a href="https://desafio-01-ignite-2021.netlify.app/">here</a></strong>.</p>
 
 
 
